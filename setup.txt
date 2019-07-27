@@ -1,0 +1,9 @@
+Kevin Tang
+7/17/2019
+
+cppyy usage example dependencies:
+	Python 3.6.8
+	cppyy (pip3 install --user cppyy)
+
+to run:
+	python3 example.py
