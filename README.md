@@ -4,9 +4,17 @@ This repo has examples for how to use [ccmpy](https://cppyy.readthedocs.io/en/la
 cppyy is an automatic Python-C++ bindings generator, based on [Cling](https://root.cern.ch/cling), for calling C++ from Python and Python from C++, designed for large scale programs in high performance computing that use modern C++, fully including the latest standard, C++17.
 ccmpy allows running cpp code in python.
 
-run example: python3 example.py
-
-# setup
-python3
-
+## setup
+```
 pip install cppyy
+```
+
+## run
+```
+python3 example.py
+```
+
+# Author
+Kevin Tang
+
+
